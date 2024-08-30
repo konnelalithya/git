@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 this is chapter 1 file 
 <<<<<<< HEAD
 hi github
 =======
 >>>>>>> branch1
+=======
+this is chapter
+>>>>>>> 193ff0f9e7f43e967d1c6634b65e47883b8176fd
